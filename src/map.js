@@ -27,3 +27,4 @@ const map = function(arr, callback) {
 	}
 	return result;
 }
+
